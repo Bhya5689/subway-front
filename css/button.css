@@ -1,0 +1,25 @@
+html,body {
+    height:100%;
+}
+body {
+    text-align:center;
+}
+body:before {
+    content: '';
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+button {
+    background: blue;
+    color:#fff;
+    border: none;
+    position: relative;
+    height: 60px;
+    font-size: 1.6em;
+    padding:0 2em;
+    cursor: pointer;
+    transition: 800ms ease all;
+    outline: none;
+}
+
