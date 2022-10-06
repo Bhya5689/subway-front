@@ -3,21 +3,170 @@
     height: auto;
     display: inline-block;
 }
-.B1 {
-    margin-right: 4px;
+body {
+    font-size: 30px;
+}
+.B1:hover {
+    background: blue;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+
+.B2:hover {
+    background: green;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B3:hover {
+    background: orange;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B4:hover {
+    background: skyblue;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B5:hover {
+    background: mediumpurple;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B6:hover {
+    background: orangered;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B7:hover {
+    background: darkolivegreen;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B8:hover {
+    background: deeppink;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B9:hover {
+    background: darkkhaki;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B10:hover {
+    background: mediumspringgreen;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B11:hover {
+    background: forestgreen;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B12:hover {
+    background: cornflowerblue;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B13:hover {
+    background: coral;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B14:hover {
+    background: aqua;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B15:hover {
+    background: red;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B16:hover {
+    background: darkgoldenrod;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B17:hover {
+    background: greenyellow;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B18:hover {
+    background: darkorange;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B19:hover {
+    background: aqua;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B20:hover {
+    background: yellow;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B21:hover {
+    background: chartreuse;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B22:hover {
+    background: darkgoldenrod;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B23:hover {
+    background: gold;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.B24:hover {
+    background: darkcyan;
+    margin-right: 5px;
+    color: black;
+    color: white;
+}
+.div {
+    display: flex;
 }
 button {
-    background: blue;
-    margin-right:4px;
-    color:#fff;
-    border: none;
-    position: relative;
-    height: 60px;
-    font-size: 1.6em;
-    padding:0 2em;
-    cursor: pointer;
-    transition: 700ms ease all;
-    outline: none;
-
+    width: 300px;
+    hight: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 40px;
+    margin: 5px 0;
+    padding: 5px  0;
+    list-style-type: none;
 }
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
 
