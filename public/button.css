@@ -20,7 +20,8 @@ btn {
     font-size: 1.6em;
     padding:0 2em;
     cursor: pointer;
-    transition: 800ms ease all;
+    transition: 700ms ease all;
     outline: none;
+
 }
 
