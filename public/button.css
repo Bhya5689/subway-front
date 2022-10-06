@@ -1,16 +1,12 @@
-html,body {
-    height:10%;
-}
-body {
-    text-align:center;
-}
-body:before {
-    content: '';
-    height: 100%;
+.space {
+    width: 4px;
+    height: auto;
     display: inline-block;
-    vertical-align: middle;
 }
-btn {
+.B1 {
+    margin-right: 4px;
+}
+button {
     background: blue;
     margin-right:4px;
     color:#fff;
